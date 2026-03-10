@@ -6,7 +6,7 @@
 I am a Biomedical Engineering Undergraduate. I am passionate about **Biomechanics in sports, Machine Learning, Biomedical signal processing, HCI.** As a sports enthusiast I am very much into improving athletes' performance by using biomechanics and data analysis, injury prevention.
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/thisura-samuditha-arachchige) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/thisura-samuditha-arachchige-469545380) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thisura.samuditha.arachchige@gmail.com) 
 
 ## Tech Stack:
