@@ -3,7 +3,7 @@
 ## Thisura Samuditha Arachchige
 
 ## About
-I am a Biomedical Engineering Undergraduate. I am passionate about **Biomechanics in sports, Machine Learning, Biomedical signal processing, HCI** As a sports enthusiast I am very much into improving athletes' performance by using biomechanics and data analysis, injury prevention.
+I am a Biomedical Engineering Undergraduate. I am passionate about **Biomechanics in sports, Machine Learning, Biomedical signal processing, HCI.** As a sports enthusiast I am very much into improving athletes' performance by using biomechanics and data analysis, injury prevention.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/thisura-samuditha-arachchige) 
