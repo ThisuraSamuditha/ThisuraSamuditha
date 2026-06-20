@@ -2,7 +2,16 @@
 
 ## Thisura Samuditha Arachchige
 
-I am a Biomedical Engineering Undergraduate. I am passionate about **Biomechanics in sports, Machine Learning, Biomedical signal processing, HCI.** As a sports enthusiast I am very much into improving athletes' performance by using biomechanics and data analysis, injury prevention.
+I am a third-year Biomedical Engineering undergraduate at the University of Moratuwa, Sri Lanka, with a strong focus on developing advanced and innovative solutions to healthcare challenges. I have hands-on experience in embedded systems, medical-grade stimulation projects, and navigating ethical clearance processes. My technical background spans biomechanics, physiological system modelling, signal processing, hardware design, and machine learning, all applied toward practical biomedical applications.
+
+## Areas of Interest:
+- Biomechanics and Neuromechanics
+- Motion Analysis for sports high performance
+- Human Computer Interaction
+- Embedded Systems
+- Signal processing  
+- Hardware design  
+- Machine learning  
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thisura-samuditha-arachchige-469545380) 
