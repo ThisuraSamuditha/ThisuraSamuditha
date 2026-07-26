@@ -5,13 +5,14 @@
 I am a third-year Biomedical Engineering undergraduate at the University of Moratuwa, Sri Lanka, with a strong focus on developing advanced and innovative solutions to healthcare challenges. I have hands-on experience in embedded systems, medical-grade stimulation projects, and navigating ethical clearance processes. My technical background spans biomechanics, physiological system modelling, signal processing, hardware design, and machine learning, all applied toward practical biomedical applications.
 
 ## Areas of Interest:
-- Biomechanics and Neuromechanics
-- Motion Analysis for sports high performance
+- Biomechanics,Neuromechanics & Rehabilitation
+- Motion Analysis for Sports High Performance
 - Human Computer Interaction
-- Embedded Systems
-- Signal processing  
+- Myoelectric Devices
+- Signal processing 
+- Wearable Devices 
 - Hardware design  
-- Machine learning  
+- Machine learning for Healthcare Applications
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thisura-samuditha-arachchige-469545380) 
