@@ -9,7 +9,7 @@ I am a third-year Biomedical Engineering undergraduate at the University of Mora
 - Motion Analysis for Sports High Performance
 - Human Computer Interaction
 - Myoelectric Devices
-- Signal processing 
+- Bio Signal processing 
 - Wearable Devices 
 - Hardware design  
 - Machine learning for Healthcare Applications
